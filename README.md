@@ -5,3 +5,4 @@ Advent of Code is an Advent calendar revealing a new two-part puzzle each day un
 [Day 1: Trebuchet?!](https://github.com/sohvip/advent-of-code-23/tree/main/day_1)  
 [Day 2: Cube Conundrum](https://github.com/sohvip/advent-of-code-23/tree/main/day_2)  
 [Day 4: Scratchcards](https://github.com/sohvip/advent-of-code-23/tree/main/day_4)  
+[Day 6: Wait For It](https://github.com/sohvip/advent-of-code-23/tree/main/day_6)  
