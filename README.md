@@ -7,3 +7,4 @@ Advent of Code is an Advent calendar revealing a new two-part puzzle each day un
 [Day 4: Scratchcards](https://github.com/sohvip/advent-of-code-23/tree/main/day_4)  
 [Day 6: Wait For It](https://github.com/sohvip/advent-of-code-23/tree/main/day_6)  
 [Day 8: Haunted Wasteland](https://github.com/sohvip/advent-of-code-23/tree/main/day_8)  
+[Day 9: Mirage Maintenance](https://github.com/sohvip/advent-of-code-23/tree/main/day_9)  
