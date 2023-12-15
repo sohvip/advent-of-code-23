@@ -11,3 +11,4 @@ Advent of Code is an Advent calendar revealing a new two-part puzzle each day un
 [Day 10: Pipe Maze](https://github.com/sohvip/advent-of-code-23/tree/main/day_10)  
 [Day 13: Point of Incidence](https://github.com/sohvip/advent-of-code-23/tree/main/day_13)  
 [Day 14: Parabolic Reflector Dish](https://github.com/sohvip/advent-of-code-23/tree/main/day_14)  
+[Day 15: Lens Library](https://github.com/sohvip/advent-of-code-23/tree/main/day_15)  
